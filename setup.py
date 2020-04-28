@@ -310,14 +310,14 @@ with open('README.rst', 'r', 'utf-8') as f:
   readme = f.read()
 
 setup(
-    name='yara-python',
+    name='ak-yara-python',
     version='3.11.0',
     description='Python interface for YARA',
     long_description=readme,
     license='Apache 2.0',
     author='Victor M. Alvarez',
-    author_email='plusvic@gmail.com, vmalvarez@virustotal.com',
-    url='https://github.com/VirusTotal/yara-python',
+    author_email='engineering@appknox.com',
+    url='https://github.com/appknox/yara-python',
     classifiers=[
         'Programming Language :: Python',
         'License :: OSI Approved :: Apache Software License',

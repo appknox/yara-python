@@ -1,0 +1,6 @@
+dist
+build
+tmp
+*.egg-info
+var
+maccorrection
